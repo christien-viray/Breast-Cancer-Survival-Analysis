@@ -47,6 +47,6 @@ See [`Breast_Cancer_Age_Survival_Report.docx`](./Breast_Cancer_Age_Survival_Repo
 
 What I Learned
 - How to explore a medical dataset and identify meaningful features
-- How age can be correlated with health outcomes in cancer survival
+- How age at diagnosis can be correlated with health outcomes in cancer survival
 - How to communicate insights visually and statistically
 - The strengths and limits of logistic regression in binary classification
